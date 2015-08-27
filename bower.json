@@ -1,0 +1,8 @@
+{
+  "name": "ASPNET-F5-Freelance Programming",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "font-awesome": "~4.3.0" , 
+    "hammer.js": "2.0.4"
+  }
+}
